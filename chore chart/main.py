@@ -10,9 +10,9 @@ def main():
 	smtp_server = "smtp.gmail.com"
 	day = "Mon"
 	date = "1"
-	sender_email = "litzlerchorechart@gmail.com"
-	password = "Cryg@sm42"
-	emails = ["8082698655@vtext.com","6028851652@vtext.com","7244216978@vtext.com","8583360383@txt.att.net"]
+	sender_email = "dkf55@nau.edu"
+	password = "HaHaHay0uThoughtIwouldactuallyputmYem@ilhere,FOOL"
+	emails = ["5552698655@vtext.com","5558851652@vtext.com","5554216978@vtext.com","5553360383@txt.att.net"]
 
 	calenderbuilder.calBuild(day, date)
 	emailwriter.sussyBaka()

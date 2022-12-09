@@ -4,3 +4,6 @@ For this project, I will be uploading **my** email spam-bot project _I_ wrote a 
 I've begun repurposing it to send out a chore chart text message via email utilizing SMTP protocols in python. It does not work anymore due to recent changes by Google to reduce spam. Boy oh boy am I sure that that's working out real well for them.
 
 I decided to use the MIT license, because I do not care if someone uses my code. It doesn't work anyways lol.
+
+##Adding module
+I'm adding a very sad module. I'm sorry
